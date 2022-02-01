@@ -1,0 +1,63 @@
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 650px;
+    margin-top: 170px;
+    
+}
+
+.text{
+    margin-left: 607px;
+    margin-top: 2px;
+}
+
+.input-group{
+    width: 100px;
+    height: 100px;
+    margin-left: 620px;
+    margin-top: -5px;
+    margin-right: 4px;
+    
+}
+
+
+.input-group2{
+    width: 100px;
+    height: 100px;
+    margin-left: 620px;
+    margin-top: -76px;
+    margin-right: 10px;
+}
+
+.input-check{
+    width: 100px;
+    height: 100px;
+    margin-left: 617px;
+    margin-right: 20px;
+    margin-top: -79px;
+}
+
+.btn-btn-primary{
+    width: 100px;
+    height: 100px;
+    margin-left: 656px;
+    margin-right: 10px;
+    font-size:7mm;
+    margin-top: -80px;
+    background-color: turquoise;
+}
+
+.form-check-label{
+    width: 100px;
+    height: 100px;
+    margin-left: 0.1ex;
+
+
+}
+.sub{
+    width: 150px;
+    height: 30px;
+    margin-left: 640px;
+    margin-top: -300px;
+
+}
